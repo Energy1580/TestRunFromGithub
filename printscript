@@ -1,1 +1,5 @@
-print("This is a message from GitHub")
+warn("Script loaded")
+while wait(1) do
+local new = instance.new("Part")
+new.Parent = game.Workspace
+end
